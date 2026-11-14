@@ -8,6 +8,36 @@
 
 # Stock Playground
 
+<p align="center">
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Hydrocarbon-Forge/stock-playground?style=social"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/forks"><img alt="forks" src="https://img.shields.io/github/forks/Hydrocarbon-Forge/stock-playground?style=social"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/watchers"><img alt="watchers" src="https://img.shields.io/github/watchers/Hydrocarbon-Forge/stock-playground?style=social"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/issues"><img alt="open issues" src="https://img.shields.io/github/issues/Hydrocarbon-Forge/stock-playground"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/issues?q=is%3Aclosed"><img alt="closed issues" src="https://img.shields.io/github/issues-closed/Hydrocarbon-Forge/stock-playground"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/pulls"><img alt="open pull requests" src="https://img.shields.io/github/issues-pr/Hydrocarbon-Forge/stock-playground"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/pulls?q=is%3Apr+is%3Aclosed"><img alt="closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Hydrocarbon-Forge/stock-playground"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/commits"><img alt="last commit" src="https://img.shields.io/github/last-commit/Hydrocarbon-Forge/stock-playground"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/commits"><img alt="commits per year" src="https://img.shields.io/github/commit-activity/Hydrocarbon-Forge/stock-playground/y"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/graphs/contributors"><img alt="contributors" src="https://img.shields.io/github/contributors/Hydrocarbon-Forge/stock-playground"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground"><img alt="repo size" src="https://img.shields.io/github/repo-size/Hydrocarbon-Forge/stock-playground"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground"><img alt="code size" src="https://img.shields.io/github/languages/code-size/Hydrocarbon-Forge/stock-playground"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground"><img alt="top language" src="https://img.shields.io/github/languages/top/Hydrocarbon-Forge/stock-playground"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground"><img alt="language count" src="https://img.shields.io/github/languages/count/Hydrocarbon-Forge/stock-playground"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/Hydrocarbon-Forge/stock-playground"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground#readme"><img alt="README" src="https://img.shields.io/badge/README-present-2ea44f?logo=readme&logoColor=white"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/search?l=python"><img alt="language: Python" src="https://img.shields.io/badge/Python-language-3776AB?logo=python&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground"><img alt="contains Markdown" src="https://img.shields.io/badge/Markdown-files-000000?logo=markdown&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground"><img alt="contains JSON" src="https://img.shields.io/badge/JSON-files-000000?logo=json&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground"><img alt="contains gitignore" src="https://img.shields.io/badge/gitignore-files-F05032?logo=git&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground"><img alt="contains Python" src="https://img.shields.io/badge/Python-files-3776AB?logo=python&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground"><img alt="Git" src="https://img.shields.io/badge/Git-version_control-F05032?logo=git&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-hosted-181717?logo=github&logoColor=white"></a>
+</p>
+
 Paper-trading playground (Gavin's request, 2026-10-05): a bot that trades a
 virtual $100,000 portfolio against **live market prices** and posts P&L to
 Gavin's Discord thread every hour. No real money, no brokerage identity
