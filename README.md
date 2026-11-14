@@ -1,3 +1,11 @@
+<p align="center"><b>A paper-trading bot: a virtual $100,000 portfolio against live prices, with hourly P&L.</b></p>
+
+<p align="center">
+<a href="LICENSE"><img alt="license: MIT" src="https://img.shields.io/badge/license-MIT-blue"></a>
+</p>
+
+---
+
 # Stock Playground
 
 Paper-trading playground (Gavin's request, 2026-10-05): a bot that trades a
@@ -52,7 +60,7 @@ playground, not advice.
 ## State
 - `state.json` — cash, positions, equity history, trade log (reason per trade).
 - `log.txt` — runner log (each tick: equity, P&L, http status).
-- To reset: delete `state.json` (next run starts fresh $100k).
+- To reset to any amount: `python3 run_hourly.py --reset <cash>` (rewrites both books; current books are $100).
 
 ## Manual run
     python3 run_hourly.py     # trade + post to the thread
