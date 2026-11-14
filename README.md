@@ -76,6 +76,13 @@ market is open), decisions are real, P&L is real.
 <a href="https://github.com/Hydrocarbon-Forge/mod-factory"><img alt="more: mod-factory" src="https://img.shields.io/badge/repo-mod--factory-24292F?logo=github&logoColor=white"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/commits"><img alt="commits list" src="https://img.shields.io/badge/commits-history-F05032?logo=github&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/branches"><img alt="branches" src="https://img.shields.io/badge/browse-branches-24292F?logo=github&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/tags"><img alt="tags" src="https://img.shields.io/badge/browse-tags-24292F?logo=github&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/stock-playground/issues"><img alt="issues list" src="https://img.shields.io/badge/browse-issues-D73A49?logo=github&logoColor=white"></a>
+</p>
+
 ## Why not a paper brokerage account
 Real brokerages (Alpaca/Tradier) require a personal identity (SSN, DOB,
 address) + email verification at signup — C6 can't complete that for a
